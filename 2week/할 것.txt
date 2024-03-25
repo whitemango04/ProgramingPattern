@@ -1,0 +1,4 @@
+VCPKG 공부
+Git ignore 공부 https://github.com/Hanneoul/24GameEngine/blob/main/.gitignore
+
+

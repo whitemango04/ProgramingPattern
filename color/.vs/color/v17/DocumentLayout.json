@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2-1\\ProgramingPattern\\color\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA6A4AE-7447-4716-BF4D-E5E97A2ED941}|color\\color.vcxproj|H:\\2-1\\ProgramingPattern\\color\\color\\color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AA6A4AE-7447-4716-BF4D-E5E97A2ED941}|color\\color.vcxproj|solutionrelative:color\\color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "color.cpp",
+              "DocumentMoniker": "H:\\2-1\\ProgramingPattern\\color\\color\\color.cpp",
+              "RelativeDocumentMoniker": "color\\color.cpp",
+              "ToolTip": "H:\\2-1\\ProgramingPattern\\color\\color\\color.cpp",
+              "RelativeToolTip": "color\\color.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T13:42:39.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
