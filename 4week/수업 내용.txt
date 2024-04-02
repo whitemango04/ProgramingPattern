@@ -1,0 +1,7 @@
+Visual Studio 2022
+프로젝트 - NuGet 패키지 관리 - 찾아보기 - GLFW - 설치
+
+glfw는  OpenGL 그래픽과 이미지를 그릴 수 있게 도와주는 API
+
+glClear(GL_COLOR_BUFFER_BIT); 넣어서 실행 안될시
+프로젝트 - 속성 - 링커 - 입력
